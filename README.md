@@ -11,7 +11,7 @@ Cocos2d-x v2.2 Rhythm Game
 ## 环境
 
 * Cocos2d-x v2.2
-* Mac + xcode proj.ios可以直接打开编译运行
+* Mac + xcode (下载项目，拷贝到Cocos2d-x v2.2下的projects目录，proj.ios可以直接打开编译运行)
 * 其他平台自己编辑资源和源码引用
 
 ## 游戏截图
