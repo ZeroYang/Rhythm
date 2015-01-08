@@ -1,0 +1,320 @@
+{
+  "armature_data": [
+    {
+      "strVersion": "0.4.0.0",
+      "version": 0.4,
+      "name": "key_press",
+      "bone_data": [
+        {
+          "name": "Layer9",
+          "parent": "",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "display_data": [
+            {
+              "name": "anim/key_press_1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "anim/key_press_2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "anim/key_press_3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "anim/key_press_4.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "anim/key_press_5.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "anim/key_press_6.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "anim/key_press_7.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "anim/key_press_8.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "key_press",
+      "mov_data": [
+        {
+          "name": "Animation1",
+          "dr": 35,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "Layer9",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": -5.5,
+                  "y": 5.341919,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0
+                },
+                {
+                  "dI": 1,
+                  "x": -5.5,
+                  "y": 5.341919,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0
+                },
+                {
+                  "dI": 2,
+                  "x": -5.5,
+                  "y": 5.341919,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0
+                },
+                {
+                  "dI": 3,
+                  "x": -5.5,
+                  "y": 5.341919,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0
+                },
+                {
+                  "dI": 4,
+                  "x": -5.5,
+                  "y": 5.341919,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 20,
+                  "twE": 0
+                },
+                {
+                  "dI": 5,
+                  "x": -5.5,
+                  "y": 5.341919,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0
+                },
+                {
+                  "dI": 6,
+                  "x": -5.5,
+                  "y": 5.341919,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0
+                },
+                {
+                  "dI": 7,
+                  "x": -5.5,
+                  "y": 5.341919,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 35,
+                  "twE": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texture_data": [
+    {
+      "name": "anim/key_press_1",
+      "width": 140.0,
+      "height": 138.0,
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    {
+      "name": "anim/key_press_2",
+      "width": 140.0,
+      "height": 138.0,
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    {
+      "name": "anim/key_press_3",
+      "width": 140.0,
+      "height": 138.0,
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    {
+      "name": "anim/key_press_4",
+      "width": 140.0,
+      "height": 138.0,
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    {
+      "name": "anim/key_press_5",
+      "width": 140.0,
+      "height": 138.0,
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    {
+      "name": "anim/key_press_6",
+      "width": 140.0,
+      "height": 138.0,
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    {
+      "name": "anim/key_press_7",
+      "width": 140.0,
+      "height": 138.0,
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    {
+      "name": "anim/key_press_8",
+      "width": 140.0,
+      "height": 138.0,
+      "pX": 0.5,
+      "pY": 0.5
+    }
+  ],
+  "config_file_path": [
+    "key_press.plist"
+  ]
+}
